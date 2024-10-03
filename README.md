@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Evan's Top Languages"/>
+</div>
+
+<br>
+
+---
+
 <img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -39,10 +47,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<br>
+
 <!-- #
 
-### Stats
+![Last's Github stats](https://github-readme-stats.vercel.app/api?username=LAST7&show_icons=true&theme=gruvbox)
 
-![Last's Github stats](https://github-readme-stats.vercel.app/api?username=LAST7&show_icons=true&theme=gruvbox) -->
-
-
+-->
